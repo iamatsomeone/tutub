@@ -18,8 +18,8 @@
         "db_properties" => (object) [
             "db_user" => "root",
             "db_password" => "root",
-            "db_host" => "mysql",
-            "db_database" => "fulptube",
+            "db_host" => "localhost",
+            "db_database" => "tutub",
             "db_connected" => false,
         ], 
 
